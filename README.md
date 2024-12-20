@@ -17,9 +17,14 @@ Here's the overview of whole project.
 - the model can detect actions such as foul, goal, corners as if it was the referee of the match. The model achieves acceptable accuracy of 72% based on our quick tests.
 - **input** is a clip of the match or the whole match.
 - **output** is the same clip with the action predictions as subtitles.
-  
+### output demo 
+
+[![Action Recognition sample #1](https://github.com/AmrRagab0/AI-Football-Referee/blob/master/Sample%20Foul%20%231.mp4)]
 ### Ball & Player Tracking 
-We improved upon YOLO & Byte track to 
+We improved upon YOLO & Byte track to
+[![Player & ball tracking sample #1](https://github.com/AmrRagab0/AI-Football-Referee/blob/master/finaltrack_demo.mp4)]
+
+
 ### Whisper Notebook
 This notebook performs Speech-to-text recognition on matches's commentary
 link: https://colab.research.google.com/drive/19a7TJitoyRSWhVMNkpFWMWdYS-L1tt--?authuser=1#scrollTo=xSV-bUFZwrAn
