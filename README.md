@@ -10,7 +10,7 @@ An Artificial-intellegince based system that aims to substitute referees. The sy
 
 ## 1- Promo
 Here's the overview of whole project.
-
+[Watch Video](https://drive.google.com/file/d/13Gwu_blwv6Rg4fSApJ3uoaPEzcymAsu3/view?usp=sharing)
 
 ## 2- Features 
 ### Action Recognition 
