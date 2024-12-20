@@ -3,12 +3,16 @@ An Artificial-intellegince based system that aims to substitute referees. The sy
 
 
 ## Table of Contents
+- [Promo](#promo).
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
 
+## 1- Promo
+Here's the overview of whole project.
 
-## 1- Features 
+
+## 2- Features 
 ### Action Recognition 
 - the model can detect actions such as foul, goal, corners as if it was the referee of the match. The model achieves acceptable accuracy of 72% based on our quick tests.
 -  
