@@ -19,13 +19,14 @@ Here's the overview of whole project.
 - **output** is the same clip with the action predictions as subtitles.
 ### output demo 
 
-[![Action Recognition sample #1](https://github.com/AmrRagab0/AI-Football-Referee/blob/master/Sample%20Foul%20%231.mp4)]
+[![Action recognition sample](https://github.com/AmrRagab0/AI-Football-Referee/blob/master/Project%20Logo+play.png)](https://drive.google.com/file/d/19gTywNLjEdhEhbRD_VX72y3nlOUeC0xp/view?usp=sharing)
 ### Ball & Player Tracking 
-We improved upon YOLO & Byte track to
-[![Player & ball tracking sample #1](https://github.com/AmrRagab0/AI-Football-Referee/blob/master/finaltrack_demo.mp4)]
+** Achieved 6th place in the SoccerNet tracking Challenge, boosting baseline performance by 11%**
+[![Ball & Player Tracking sample](https://github.com/AmrRagab0/AI-Football-Referee/blob/master/Project%20Logo+play.png)](https://drive.google.com/file/d/17EcdV8TA1dn9cvt0Xx5ckyHML9ardTwb/view?usp=sharing)
+For more details, check out the **[Tracking-repo](https://github.com/ibrahimabdelaal/football-player-tracker)** repository, which includes the Tracking code & output.
 
 
-### Whisper Notebook
+- Whisper Notebook
 This notebook performs Speech-to-text recognition on matches's commentary
 link: https://colab.research.google.com/drive/19a7TJitoyRSWhVMNkpFWMWdYS-L1tt--?authuser=1#scrollTo=xSV-bUFZwrAn
 
