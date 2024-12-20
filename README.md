@@ -1,7 +1,19 @@
-# AI-Referee
-This is the repo of our graduation project. All code and notebooks should be added here
+# AI-Football-Referee
+An Artificial-intellegince based system that aims to substitute referees. The system uses deep learning models to perform : Action Recognition
 
 
+## Table of Contents
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+## 1- Features 
+### Action Recognition 
+- the model can detect actions such as foul, goal, corners as if it was the referee of the match. The model achieves acceptable accuracy of 72% based on our quick tests.
+-  
+### Ball & Player Tracking 
+We improved upon YOLO & Byte track to 
 ### Whisper Notebook
 This notebook performs Speech-to-text recognition on matches's commentary
 link: https://colab.research.google.com/drive/19a7TJitoyRSWhVMNkpFWMWdYS-L1tt--?authuser=1#scrollTo=xSV-bUFZwrAn
