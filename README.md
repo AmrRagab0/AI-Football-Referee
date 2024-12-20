@@ -1,5 +1,5 @@
 # AI-Football-Referee
-An Artificial-intellegince based system that aims to substitute referees. The system uses deep learning models to perform : Action Recognition
+An Artificial-intellegince based system that aims to substitute referees. The system uses deep learning models to perform : Action Recognition, Player & ball tracking and bird's eyeview. All of this can be displayed on a website for users to try.
 
 
 ## Table of Contents
@@ -15,7 +15,9 @@ Here's the overview of whole project.
 ## 2- Features 
 ### Action Recognition 
 - the model can detect actions such as foul, goal, corners as if it was the referee of the match. The model achieves acceptable accuracy of 72% based on our quick tests.
--  
+- **input** is a clip of the match or the whole match.
+- **output** is the same clip with the action predictions as subtitles.
+  
 ### Ball & Player Tracking 
 We improved upon YOLO & Byte track to 
 ### Whisper Notebook
