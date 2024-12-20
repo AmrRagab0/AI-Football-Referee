@@ -20,7 +20,7 @@ Here's the overview of whole project.
 
 [![Action recognition sample](https://github.com/AmrRagab0/AI-Football-Referee/blob/master/Project%20Logo+play.png)](https://drive.google.com/file/d/19gTywNLjEdhEhbRD_VX72y3nlOUeC0xp/view?usp=sharing)
 ### Ball & Player Tracking 
-** Achieved 6th place in the SoccerNet tracking Challenge, boosting baseline performance by 11%**
+**Achieved 6th place in the SoccerNet tracking Challenge, boosting baseline performance by 11%**
 [![Ball & Player Tracking sample](https://github.com/AmrRagab0/AI-Football-Referee/blob/master/Project%20Logo+play.png)](https://drive.google.com/file/d/17EcdV8TA1dn9cvt0Xx5ckyHML9ardTwb/view?usp=sharing)
 For more details, check out the **[Tracking-repo](https://github.com/ibrahimabdelaal/football-player-tracker)** repository, which includes the Tracking code & output.
 
