@@ -5,7 +5,6 @@ An Artificial-intellegince based system that aims to substitute referees. The sy
 ## Table of Contents
 - [Promo](#promo).
 - [Features](#features)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## 1- Promo
@@ -25,6 +24,9 @@ Here's the overview of whole project.
 [![Ball & Player Tracking sample](https://github.com/AmrRagab0/AI-Football-Referee/blob/master/Project%20Logo+play.png)](https://drive.google.com/file/d/17EcdV8TA1dn9cvt0Xx5ckyHML9ardTwb/view?usp=sharing)
 For more details, check out the **[Tracking-repo](https://github.com/ibrahimabdelaal/football-player-tracker)** repository, which includes the Tracking code & output.
 
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 - Whisper Notebook
 This notebook performs Speech-to-text recognition on matches's commentary
