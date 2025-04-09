@@ -16,8 +16,10 @@ Here's the overview of whole project.
 - the model can detect actions such as foul, goal, corners as if it was the referee of the match. The model achieves acceptable accuracy of 72% based on our quick tests.
 - **input** is a clip of the match or the whole match.
 - **output** is the same clip with the action predictions as subtitles.
-### output demo 
+  
 link for complete code with weights: https://drive.google.com/file/d/16I2sXFfnsVnoLIb4SV47VD-itC6XyPTQ/view
+
+### output demo 
 [![Action recognition sample](https://github.com/AmrRagab0/AI-Football-Referee/blob/master/Project%20Logo+play.png)](https://drive.google.com/file/d/19gTywNLjEdhEhbRD_VX72y3nlOUeC0xp/view?usp=sharing)
 
 ### Ball & Player Tracking 
